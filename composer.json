@@ -1,0 +1,19 @@
+{
+    "name": "ilhamdev/upscale",
+    "description": "upscale test",
+    "require": {
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ilhamdev\\upscale\\" : "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M ilham sabar",
+            "email": "ilhamsabar@gmail.com"
+        }
+    ]
+}
